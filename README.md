@@ -1,7 +1,7 @@
 [![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Risqi Andryana S</h1>
 <h3 align="center">"TAKENAL MAKA TANYAKEUN!!"</h3>
-<img align="right" alt="Coding" width="200" src="https://i.pinimg.com/564x/59/32/e9/5932e92a927fa1cd675fee05cbce3ea1.jpg">
+<img align="right" alt="Coding" width="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnMyd2pxeGdubDRxYXpibGYzb3B2cHR0NXVjdzg1bXNpa2F2NzBpZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/77rvjVcaJr1BgKSXtR/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=risqiyyyy&label=Profile%20views&color=0e75b6&style=flat" alt="risqiyyyy" /> </p>
 <h3 align="left">Connect with me:</h3>
